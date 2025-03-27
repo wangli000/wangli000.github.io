@@ -15,8 +15,8 @@ I earned my B.S. in the School of Electronic Information and Communica from [Hua
 <!-- ![image](https://github.com/wangli000/wangli000.github.io/blob/main/images/hust.png) 
 ![image](https://github.com/wangli000/wangli000.github.io/blob/main/images/nju.png)-->
 <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="images/hust.png" width="150" style="margin: 0 10px;">
-    <img src="images/nju.png" width="150" style="margin: 0 10px;">
+    <img src="https://github.com/wangli000/wangli000.github.io/blob/main/images/hust.png" width="150" style="margin: 0 10px;">
+    <img src="https://github.com/wangli000/wangli000.github.io/blob/main/images/nju.png" width="150" style="margin: 0 10px;">
 </div>
 
 
