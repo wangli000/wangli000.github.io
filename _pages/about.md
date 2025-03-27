@@ -47,7 +47,7 @@ My research interest includes neural machine translation and computer vision. I 
 - **2019.09 - 2023.07**: Huazhong University of Science and Technology, Bachelor of Science in Electronic Information Science and Technology
 
 
-# 📝 Publications 
+# Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/Sketch.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -91,7 +91,7 @@ In submission to **ICCV 2025**
 
 </div>
 
-# 🎖 Honors and Awards
+# Honors and Awards
 - The National College Student Embedded Chip and System Design Competition – FPGA Innovative Design Track: **National First Prize** (**Top 1.7%**),**2021**
 
  <!-- Jindiao Huang\*, **Li Wang\***, Qilong Xiong\* -->
