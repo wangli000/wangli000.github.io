@@ -14,12 +14,11 @@ My name is Li Wang (王力).I'm now a second-year master student in [NJU-3DV Lab
 I earned my B.S. in the School of Electronic Information and Communica from [Huazhong University of Science and Technology](https://english.hust.edu.cn) where I was advised by  [Prof. Yuzhou Li](https://intelligenceinfinity.github.io/index.html). I had a wonderful time in Wuhan,China from 2019 to 2023
 <!-- ![image](https://github.com/wangli000/wangli000.github.io/blob/main/images/hust.png) 
 ![image](https://github.com/wangli000/wangli000.github.io/blob/main/images/nju.png)-->
-<table style="border-collapse: collapse; border: none; text-align: center; margin: auto;">
-    <tr>
-        <td><img src="https://github.com/wangli000/wangli000.github.io/blob/main/images/hust.png" width="150"></td>
-        <td><img src="https://github.com/wangli000/wangli000.github.io/blob/main/images/nju.png" width="150"></td>
-    </tr>
-</table>
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img src="images/hust.png" width="150" style="margin: 0 10px;">
+    <img src="images/nju.png" width="150" style="margin: 0 10px;">
+</div>
+
 
 <!--{% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
