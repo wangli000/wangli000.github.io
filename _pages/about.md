@@ -48,7 +48,7 @@ My research interest includes neural machine translation and computer vision. I 
         <div>
             <div class="badge">Under Review</div>
             <div class="image-container">
-                <img src='images/Sketch.png' alt="sym">
+                <img src='images/TeRA.png' alt="sym">
             </div>
         </div>
     </div>
