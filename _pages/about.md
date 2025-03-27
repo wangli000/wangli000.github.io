@@ -15,11 +15,12 @@ I earned my B.S. in the School of Electronic Information and Communica from [Hua
 <!-- ![image](https://github.com/wangli000/wangli000.github.io/blob/main/images/hust.png) 
 ![image](https://github.com/wangli000/wangli000.github.io/blob/main/images/nju.png)-->
 
-<div style="display: flex; justify-content: center; align-items: center; height: 200px;">
-    <img src="https://github.com/wangli000/wangli000.github.io/blob/main/images/hust.png" style="width: 150px; height: 150px; object-fit: contain; margin: 0 10px;">
-    <img src="https://github.com/wangli000/wangli000.github.io/blob/main/images/nju.png" style="width: 150px; height: 150px; object-fit: contain; margin: 0 10px;">
-</div>
-
+<table style="border: none; border-collapse: collapse;" align="center">
+    <tr>
+        <td style="border: none;"><img src="https://github.com/wangli000/wangli000.github.io/blob/main/images/hust.png" width="150"></td>
+        <td style="border: none;"><img src="https://github.com/wangli000/wangli000.github.io/blob/main/images/nju.png" width="150"></td>
+    </tr>
+</table>
 
 
 <!--{% if site.google_scholar_stats_use_cdn %}
