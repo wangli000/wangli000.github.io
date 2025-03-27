@@ -43,7 +43,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/TeRA.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/Sketch.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Efficient and Generalized Sketch to 3D Human Pose Predictio
