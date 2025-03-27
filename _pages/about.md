@@ -41,13 +41,42 @@ My research interest includes neural machine translation and computer vision. I 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
-<!--# 📝 Publications 
+# 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/TeRA.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Efficient and Generalized Sketch to 3D Human Pose Predictio
+
+**Li Wang**, Yiyu Zhuang, Yanwen Wang, Xun Cao, Chuan Guo, Xinxin Zuo, Hao Zhu
+
+In submission to **SIGGRAPH 2025**，Score: 3 (Accept), 1 (Borderline Accept), 1 (Borderline Accept), -1 (Borderline Reject)
+
+<!--[[paper]](/files/TeRA.pdf) -->
+</div>
+
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/Street.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+StreetSyn: A Full Radiance Field Solution for Street and Vehicle Free-View Synthesis
+
+Shenhao Zhu, **Li Wang**, Xun Cao, Ruigang Yang,  Xinxin Zuo, Hao Zhu
+
+**ICONIP 2024**
+
+[[paper]](/files/Street.pdf)
+</div>
+
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/TeRA.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 TeRA: Rethinking Text-guided Realistic 3D Avatar Generation
 
-**Yanwen Wang**, Yiyu Zhuang, Jiawei Zhang, Li Wang, Yifei Zeng, Xun Cao, Xinxin Zuo, Hao Zhu
+Yanwen Wang, Yiyu Zhuang, Jiawei Zhang, **Li Wang**, Yifei Zeng, Xun Cao, Xinxin Zuo, Hao Zhu
 
 In submission to **ICCV 2025**
 
@@ -55,48 +84,6 @@ In submission to **ICCV 2025**
 </div>
 
 </div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/Surfavatar.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-SurfAvatar: Versatile Human Avatar with Meshified Surfel Gaussians
-
-Zijian Wu, Jiawei Zhang, **Yanwen Wang**, Yao Yao, Siyu Zhu, Xun Cao, Hao Zhu
-
-In submission to **ICCV 2025**
-
-[[paper]](/files/SurfAvatar.pdf)
-
-</div>
-
-</div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/head360.gif' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-Head360: Learning a Parametric 3D Full-Head for Free-View Synthesis in 360◦
-
-Yuxiao He, Yiyu Zhuang, **Yanwen Wang**, Yao Yao, Siyu Zhu, Xiaoyu Li, Qi Zhang, Xun Cao, Hao Zhu
-
-**ECCV 2024**
-
-[[paper]](https://arxiv.org/pdf/2408.00296)[[project page]](https://github.com/dinosaur-eg/Head360)
-</div>
-
-</div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/3d_head_avatar.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-Towards Native Generative Model for 3D Head Avatar
-
-Yiyu Zhuang\*, Yuxiao He\*, Jiawei Zhang\*, **Yanwen Wang**, Jiahe Zhu, Yao Yao, Siyu Zhu, Xun Cao, Hao Zhu
-
-In submission to **TPAMI 2024**
-
-[[paper]](https://arxiv.org/abs/2410.01226)[[video]](/files/pami_supp_video_fix_x264.mp4)
-</div>
-
-
-</div><!--
-
 
 # 🎖 Honors and Awards
 
