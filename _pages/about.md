@@ -1,4 +1,4 @@
----
+![人物 (3)](https://github.com/user-attachments/assets/2611e1ac-5811-4155-9ba5-ab7e09120a42)---
 permalink: /
 title: ""
 excerpt: ""
@@ -41,9 +41,15 @@ My research interest includes neural machine translation and computer vision. I 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
+# Educations
+
+- **2024.09 - Present**: Nanjing University, Master's student in NJU-3DV Lab
+- **2019.09 - 2023.07**: Huazhong University of Science and Technology, Bachelor of Science in Electronic Information Science and Technology
+
+
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICONIP 2024</div><img src='images/Sketch.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/Sketch.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Efficient and Generalized Sketch to 3D Human Pose Predictio
@@ -86,8 +92,13 @@ In submission to **ICCV 2025**
 </div>
 
 # 🎖 Honors and Awards
+- *2021.12* The National College Student Embedded Chip and System Design Competition – FPGA Innovative Design Track: **National First Prize** (**Top 1.7%**)
 
-
+ <!-- Jindiao Huang\*, **Li Wang\***, Qilong Xiong\* -->
+  
+- Silver Medal in the 8th China International "Internet+" College Student Innovation and Entrepreneurship Competition, Hubei Provincial Contest
+- *2021.11* Outstanding Undergraduate Student of Huazhong University of Science and Technology (**Top 1.0%**)
+- *2024.12* Outstanding Graduate Student of Nanjing University
 <!--# 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
