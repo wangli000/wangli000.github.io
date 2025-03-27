@@ -11,7 +11,7 @@ redirect_from:
 # 👤 Biography
 My name is Li Wang (王力).I'm now a second-year master student in [NJU-3DV Lab - Digital Human Group](http://zhuhao.cc/group/), Nanjing University, supervised by [Prof. Xun Cao](https://cite.nju.edu.cn/People/Faculty/20190621/i5054.html) and [Prof. Hao Zhu](http://zhuhao.cc/home/). My current research interests lie in **human pose estimation**, **3D reconstruction**, **generative model** and **3D computer vision**. 
 
-I earned my B.S. in the School of Electronic Information and Communica from [Huazhong University of Science and Technology](https://english.hust.edu.cn) where I was advised by  [Prof. Yuzhou Li](https://intelligenceinfinity.github.io/index.html). I had a wonderful time in Wuhan,China from 2019 to 2023
+I earned my B.S. in the School of Electronic Information and Communica from [Huazhong University of Science and Technology](https://english.hust.edu.cn) where I was advised by  [Prof. Yuzhou Li](https://intelligenceinfinity.github.io/index.html). I had a wonderful time in Wuhan,China from 2019 to 2023.
 <!-- ![image](https://github.com/wangli000/wangli000.github.io/blob/main/images/hust.png) 
 ![image](https://github.com/wangli000/wangli000.github.io/blob/main/images/nju.png)-->
 
