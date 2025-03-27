@@ -8,6 +8,14 @@ redirect_from:
   - /about.html
 ---
 
+.badge {
+    background-color: #ffcc00; /* 例：背景色 */
+    color: #ff0000; /* 例：红色字体 */
+    font-weight: bold;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
 # 👤 Biography
 My name is Li Wang (王力).I'm now a second-year master student in [NJU-3DV Lab - Digital Human Group](http://zhuhao.cc/group/), Nanjing University, supervised by [Prof. Xun Cao](https://cite.nju.edu.cn/People/Faculty/20190621/i5054.html) and [Prof. Hao Zhu](http://zhuhao.cc/home/). My current research interests lie in **human pose estimation**, **3D reconstruction**, **generative model** and **3D computer vision**. 
 
@@ -43,16 +51,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<div class='paper-box'>
-    <div class='paper-box-image'>
-        <div>
-            <div class="badge">Under Review</div>
-            <div class="image-container">
-                <img src='images/TeRA.png' alt="sym">
-            </div>
-        </div>
-    </div>
-    <div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICONIP 2024</div><img src='images/Sketch.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 Efficient and Generalized Sketch to 3D Human Pose Predictio
 
