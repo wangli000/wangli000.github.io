@@ -92,13 +92,13 @@ In submission to **ICCV 2025**
 </div>
 
 # 🎖 Honors and Awards
-- *2021.12* The National College Student Embedded Chip and System Design Competition – FPGA Innovative Design Track: **National First Prize** (**Top 1.7%**)
+- The National College Student Embedded Chip and System Design Competition – FPGA Innovative Design Track: **National First Prize** (**Top 1.7%**),**2021**
 
  <!-- Jindiao Huang\*, **Li Wang\***, Qilong Xiong\* -->
   
-- Silver Medal in the 8th China International "Internet+" College Student Innovation and Entrepreneurship Competition, Hubei Provincial Contest
-- *2021.11* Outstanding Undergraduate Student of Huazhong University of Science and Technology (**Top 1.0%**)
-- *2024.12* Outstanding Graduate Student of Nanjing University
+- Silver Medal in the 8th China International "Internet+" College Student Innovation and Entrepreneurship Competition, Hubei Provincial Contest, **2022**
+- Outstanding Undergraduate Student of Huazhong University of Science and Technology (**Top 1.0%**), **2021**
+- Outstanding Graduate Student of Nanjing University, **2024**
 <!--# 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
