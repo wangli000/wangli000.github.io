@@ -8,14 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-.badge {
-    background-color: #ffcc00; /* 例：背景色 */
-    color: #ff0000; /* 例：红色字体 */
-    font-weight: bold;
-    padding: 5px 10px;
-    border-radius: 5px;
-}
-
 # 👤 Biography
 My name is Li Wang (王力).I'm now a second-year master student in [NJU-3DV Lab - Digital Human Group](http://zhuhao.cc/group/), Nanjing University, supervised by [Prof. Xun Cao](https://cite.nju.edu.cn/People/Faculty/20190621/i5054.html) and [Prof. Hao Zhu](http://zhuhao.cc/home/). My current research interests lie in **human pose estimation**, **3D reconstruction**, **generative model** and **3D computer vision**. 
 
