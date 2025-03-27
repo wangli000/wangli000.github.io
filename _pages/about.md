@@ -43,7 +43,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # Educations
 
-- **2024.09 - Present**: Nanjing University, Master's student in NJU-3DV Lab
+- **2023.09 - Present**: Nanjing University, Master's student in NJU-3DV Lab
 - **2019.09 - 2023.07**: Huazhong University of Science and Technology, Bachelor of Science in Electronic Information Science and Technology
 
 
@@ -99,7 +99,8 @@ In submission to **ICCV 2025**
 - Silver Medal in the 8th China International "Internet+" College Student Innovation and Entrepreneurship Competition, Hubei Provincial Contest, **2022**
 - Outstanding Undergraduate Student of Huazhong University of Science and Technology (**Top 1.0%**), **2021**
 - Outstanding Graduate Student of Nanjing University, **2024**
-<!--# 📖 Educations
+
+<!-- # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
