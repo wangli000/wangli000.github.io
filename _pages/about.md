@@ -57,7 +57,7 @@ In submission to **SIGGRAPH 2025**，Score: 3 (Accept), 1 (Borderline Accept), 1
 
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/Street.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICONIP 2024</div><img src='images/Street.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 StreetSyn: A Full Radiance Field Solution for Street and Vehicle Free-View Synthesis
