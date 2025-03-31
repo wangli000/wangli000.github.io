@@ -58,7 +58,7 @@ Efficient and Generalized Sketch to 3D Human Pose Predictio
 
 In submission to **SIGGRAPH 2025**，Score: 3 (Accept), 1 (Borderline Accept), 1 (Borderline Accept), -1 (Borderline Reject)
 
-<!--[[paper]](../files/TeRA.pdf) -->
+[[paper]](../files/Sketch2Pose.pdf)
 </div>
 
 </div>
