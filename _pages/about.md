@@ -56,7 +56,9 @@ Efficient and Generalized Sketch to 3D Human Pose Predictio
 
 **Li Wang**, Yiyu Zhuang, Yanwen Wang, Xun Cao, Chuan Guo, Xinxin Zuo, Hao Zhu
 
-In submission to **SIGGRAPH 2025**，Score: 3 (Accept), 1 (Borderline Accept), 1 (Borderline Accept), -1 (Borderline Reject)
+In submission to **SIGGRAPH Asia 2025**
+
+<!-- ，Score: 3 (Accept), 1 (Borderline Accept), 1 (Borderline Accept), -1 (Borderline Reject) -->
 
 [[paper]](/files/Sketch2Pose.pdf)
 </div>
