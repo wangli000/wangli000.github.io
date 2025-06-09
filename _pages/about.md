@@ -52,7 +52,7 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/sketch2pose.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Efficient and Generalized Sketch to 3D Human Pose Predictio
+Efficient and Generalized Sketch to 3D Human Pose Prediction
 
 **Li Wang**, Yiyu Zhuang, Yanwen Wang, Xun Cao, Chuan Guo, Xinxin Zuo, Hao Zhu
 
