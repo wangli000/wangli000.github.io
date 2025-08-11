@@ -58,12 +58,12 @@ Efficient and Generalized Sketch to 3D Human Pose Prediction
 
 In submission to **SIGGRAPH Asia 2025**
 
-<!-- ，Score: 3 (Accept), 1 (Borderline Accept), 1 (Borderline Accept), -1 (Borderline Reject) -->
+<!-- ，Score: 3 (Accept), 1 (Borderline Accept), 1 (Borderline Accept), -1 (Borderline Reject) 
 
 [[paper]](/files/Sketch2Pose.pdf)  -->
 </div>
 
-</div>
+</div> -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICONIP 2024</div><img src='images/Street.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
