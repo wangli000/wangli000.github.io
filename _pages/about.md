@@ -60,7 +60,7 @@ In submission to **SIGGRAPH Asia 2025**
 
 <!-- ，Score: 3 (Accept), 1 (Borderline Accept), 1 (Borderline Accept), -1 (Borderline Reject) 
 
-[[paper]](/files/Sketch2Pose.pdf)  -->
+[[paper]](/files/Sketch2Pose.pdf)
 </div>
 
 </div> -->
