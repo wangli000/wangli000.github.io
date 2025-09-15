@@ -49,7 +49,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # Publications 
 
- <!--<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH Asia 2025</div><img src='images/sketch2pose.jpg' alt="sym" width="100%"></div></div>
+ <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH Asia 2025</div><img src='images/sketch2pose.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Efficient and Generalized Sketch to 3D Human Pose Prediction
@@ -61,7 +61,22 @@ Efficient and Generalized Sketch to 3D Human Pose Prediction
 [[paper]](/files/Sketch2Pose.pdf)
 </div>
 
-</div>-->
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/TeRA.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+TeRA: Rethinking Text-guided Realistic 3D Avatar Generation
+
+Yanwen Wang, Yiyu Zhuang, Jiawei Zhang, **Li Wang**, Yifei Zeng, Xun Cao, Xinxin Zuo, Hao Zhu
+
+**ICCV 2025**
+
+[[paper]](/files/TeRA.pdf)
+</div>
+
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICONIP 2024</div><img src='images/Street.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -77,19 +92,6 @@ Shenhao Zhu, **Li Wang**, Xun Cao, Ruigang Yang,  Xinxin Zuo, Hao Zhu
 
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/TeRA.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-TeRA: Rethinking Text-guided Realistic 3D Avatar Generation
-
-Yanwen Wang, Yiyu Zhuang, Jiawei Zhang, **Li Wang**, Yifei Zeng, Xun Cao, Xinxin Zuo, Hao Zhu
-
-**ICCV 2025**
-
-[[paper]](/files/TeRA.pdf)
-</div>
-
-</div>
 
 # Honors and Awards
 - The National College Student Embedded Chip and System Design Competition – FPGA Innovative Design Track: **National First Prize** (**Top 1.7%**),**2021**
