@@ -58,7 +58,7 @@ Efficient and Generalized Sketch to 3D Human Pose Prediction
 
 **SIGGRAPH Asia 2025**
 
-[[paper]](/files/Sketch2Pose.pdf)
+[[paper]](/files/Sketch2PoseNet.pdf)
 </div>
 
 </div>
