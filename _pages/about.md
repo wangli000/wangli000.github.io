@@ -41,12 +41,14 @@ My research interest includes neural machine translation and computer vision. I 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
-# Educations
+# Biography
 
 - **2023.09 - Present**: Nanjing University, Master's student in NJU-3DV Lab
 - **2019.09 - 2023.07**: Huazhong University of Science and Technology, Bachelor of Science in Electronic Information Science and Technology
 
-
+# Internships
+- **2025.05 - 2025.09**: Taobao, Alibaba Group, HangZhou, China.
+  
 # Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH Asia 2025</div><img src='images/sketch2pose.jpg' alt="sym" width="100%"></div></div>
@@ -94,13 +96,15 @@ Shenhao Zhu, **Li Wang**, Xun Cao, Ruigang Yang,  Xinxin Zuo, Hao Zhu
 
 
 # Honors and Awards
+- National Scholarship of Nanjing University, **2025**
+- Outstanding Graduate Student of Nanjing University, **2024**
+- Silver Medal in the 8th China International "Internet+" College Student Innovation and Entrepreneurship Competition, Hubei Provincial Contest, **2022**
 - The National College Student Embedded Chip and System Design Competition – FPGA Innovative Design Track: **National First Prize** (**Top 1.7%**),**2021**
 
  <!-- Jindiao Huang\*, **Li Wang\***, Qilong Xiong\* -->
   
-- Silver Medal in the 8th China International "Internet+" College Student Innovation and Entrepreneurship Competition, Hubei Provincial Contest, **2022**
 - Outstanding Undergraduate Student of Huazhong University of Science and Technology (**Top 1.0%**), **2021**
-- Outstanding Graduate Student of Nanjing University, **2024**
+
 
 <!-- # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
