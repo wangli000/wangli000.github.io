@@ -58,7 +58,7 @@ Efficient and Generalized Sketch to 3D Human Pose Prediction
 
 **SIGGRAPH Asia 2025**
 
-[[paper]](/files/Sketch2PoseNet.pdf)
+[[paper]](/files/Sketch2PoseNet.pdf)[[project page]](https://wangli000.github.io/Sketch2PoseNet-Page/)
 </div>
 
 </div>
@@ -73,7 +73,7 @@ Yanwen Wang, Yiyu Zhuang, Jiawei Zhang, **Li Wang**, Yifei Zeng, Xun Cao, Xinxin
 
 **ICCV 2025**
 
-[[paper]](/files/TeRA.pdf)
+[[paper]](/files/TeRA.pdf)[[project page]](https://yanwen-w.github.io/TeRA-Page/)
 </div>
 
 </div>
