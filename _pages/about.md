@@ -41,14 +41,11 @@ My research interest includes neural machine translation and computer vision. I 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
-# Biography
+# Educations
 
 - **2023.09 - Present**: Nanjing University, Master's student in NJU-3DV Lab
 - **2019.09 - 2023.07**: Huazhong University of Science and Technology, Bachelor of Science in Electronic Information Science and Technology
 
-# Internships
-- **2025.05 - 2025.09**: Taobao, Alibaba Group, HangZhou, China.
-  
 # Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH Asia 2025</div><img src='images/sketch2pose.jpg' alt="sym" width="100%"></div></div>
@@ -94,6 +91,8 @@ Shenhao Zhu, **Li Wang**, Xun Cao, Ruigang Yang,  Xinxin Zuo, Hao Zhu
 
 </div>
 
+# Internships
+- **2025.05 - 2025.09**: Taobao, Alibaba Group, HangZhou, China.
 
 # Honors and Awards
 - National Scholarship of Nanjing University, **2025**
